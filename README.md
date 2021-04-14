@@ -7,7 +7,7 @@
 "Year Prediction MSD Dataset" from UCI Machine Learning Repository is used for this project
 https://archive.ics.uci.edu/ml/datasets/yearpredictionmsd
 
-<h2>Data preprocessing</h2>
+<h2>Data pre-processing</h2>
 <ul>
   <li>Load the dataset and use min max scaling to scale features between 0 and 1</li>
     <li>Normalize the labels by subtracting min year</li>
